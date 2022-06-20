@@ -39,10 +39,15 @@ We have achieved following results which outperform 4 previous state-of-the-art 
 
 <pre>
 <b> Performance Metrics </b>
-Test Accuracy                                    : 96.94%
-Precision                                        : 96.16%
-Sensitivity (COVID-19)                           : 96% 
-Sensitivity (Viral)                              : 94% 
-F1-score                                         : 95.88%
+Test Accuracy                                    : 97.47%
+Precision                                        : 97%
+Sensitivity (BCC)                                : 100% 
+Sensitivity (Melanoma)                           : 96% 
+Sensitivity (Nevus)                              : 98%
+F1-score                                         : 98%
 AUC                                              : 0.99
 </pre>
+
+#### ROC AUC Curve
+
+![ROC AUC Curve](https://i.ibb.co/1v30GvF/roc.png)
